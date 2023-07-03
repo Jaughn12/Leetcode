@@ -13,6 +13,7 @@ To use the Python binary search implementation, you can call the `binary_search`
 ```python
 result = binary_search([-1, 0, 3, 5, 9, 12], 9)
 print(result)  # Output: 4
+```
 
 ## C Implementation
 
@@ -25,9 +26,13 @@ To use the C binary search implementation, you need to compile and run the code.
 ```bash
 gcc binary_search.c -o binary_search
 ./binary_search
+```
+
+The code includes a sample input array and target value, and it prints the index of the target element as the output.
 
 ## Time and Space Complexity
 
 Both implementations of the binary search algorithm have the same time complexity. The time complexity is O(log n), where n is the number of elements in the input (list in Python, array in C). This makes the algorithm efficient for searching in sorted lists or arrays.
 
 The space complexity of both implementations is O(1), indicating constant space usage. They don't require additional data structures or memory that scale with the input size.
+`
