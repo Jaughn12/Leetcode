@@ -4,7 +4,7 @@ This repository contains implementations of the binary search algorithm in Pytho
 
 ## Python Implementation
 
-The Python implementation of the binary search algorithm can be found in the `binary_search.py` file. It takes a sorted list of numbers and a target value as input and returns the index of the target element in the list, or -1 if the target is not found.
+The Python implementation of the binary search algorithm can be found in the `Binary_search.py` file. It takes a sorted list of numbers and a target value as input and returns the index of the target element in the list, or -1 if the target is not found.
 
 ### Usage
 
@@ -17,14 +17,14 @@ print(result)  # Output: 4
 
 ## C Implementation
 
-The C implementation of the binary search algorithm can be found in the `binary_search.c` file. It takes a sorted array of integers, the target value, the start index, and the end index of the search range as input. It returns the index of the target element in the array, or -1 if the target is not found.
+The C implementation of the binary search algorithm can be found in the `binarysearch.c` file. It takes a sorted array of integers, the target value, the start index, and the end index of the search range as input. It returns the index of the target element in the array, or -1 if the target is not found.
 
 ### Usage
 
 To use the C binary search implementation, you need to compile and run the code. For example:
 
 ```bash
-gcc binary_search.c -o binary_search
+gcc binarysearch.c -o binarysearch
 ./binary_search
 ```
 
