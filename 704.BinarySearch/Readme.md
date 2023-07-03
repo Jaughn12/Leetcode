@@ -14,11 +14,11 @@ To use the Python binary search implementation, you can call the `binary_search`
 result = binary_search([-1, 0, 3, 5, 9, 12], 9)
 print(result)  # Output: 4
 
-#### C Implementation
+## C Implementation
 
 The C implementation of the binary search algorithm can be found in the `binary_search.c` file. It takes a sorted array of integers, the target value, the start index, and the end index of the search range as input. It returns the index of the target element in the array, or -1 if the target is not found.
 
-##### Usage
+### Usage
 
 To use the C binary search implementation, you need to compile and run the code. For example:
 
