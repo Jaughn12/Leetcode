@@ -1,4 +1,4 @@
-# Binary Search Algorithm
+# 30 days leet code challenge(DAY1)
 
 This repository contains implementations of the binary search algorithm in Python and C programming languages.
 
