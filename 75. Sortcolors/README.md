@@ -14,7 +14,7 @@ The C code provided implements the Bubble Sort algorithm using recursion. It com
 
 ## How to Run the Code
 
-To run the code, you can compile the C file and execute the resulting program. The main function initializes an array, calls the `bubbleSort` function to sort it, and prints the original and sorted arrays.
+To run the code, you can compile the C file and execute the resulting program. The main function initializes an array, calls the `sortColors` function to sort it, and prints the original and sorted arrays.
 
 ## Time Complexity
 
