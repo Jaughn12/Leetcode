@@ -24,5 +24,4 @@ Contributions to this repository are welcome. If you have alternative solutions,
 
 **Disclaimer**: The solutions provided in this repository are for reference and learning purposes. It is encouraged to understand the problem and attempt to solve it independently before referring to any external solutions.
 
-Happy coding!
 
